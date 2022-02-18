@@ -4,10 +4,10 @@
 xrdb merge ${HOME}/.Xresources &
 
 # compositor
-picom &
+# picom &
 
 # background
-nitrogen --restore &
+xsetroot -solid "#19191E" &
 
 # notification
 dunst &
