@@ -8,3 +8,4 @@ URxvt.scrollBar_floating: false
 URxvt.scrollstyle: plain
 URxvt.scrollWithBuffer: false
 URxvt.pointerBlank: true
+URxvt.cursorBlink: true
