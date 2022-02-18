@@ -1,0 +1,10 @@
+*.foreground: #EEEEEE
+*.background: #19191E
+
+! URxvt
+URxvt.scrollBar: false
+URxvt.scrollBar_right: true
+URxvt.scrollBar_floating: false
+URxvt.scrollstyle: plain
+URxvt.scrollWithBuffer: false
+URxvt.pointerBlank: true
