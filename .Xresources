@@ -9,3 +9,9 @@ URxvt.scrollstyle: plain
 URxvt.scrollWithBuffer: false
 URxvt.pointerBlank: true
 URxvt.cursorBlink: true
+
+URxvt.font: xft:JetBrains Mono:size=13:antialia=true
+URxvt.boldFont: xft:JetBrains Mono:bold:size=13:antialia=true
+URxvt.letterSpace: -1
+
+URxvt*loginShell: true
